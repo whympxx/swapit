@@ -284,3 +284,5 @@ Give a ⭐ if this project helped you!
 [Back to Top](#-swap-it)
 
 </div>
+
+Made by [whympxx](https://github.com/whympxx).
