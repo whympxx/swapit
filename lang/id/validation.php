@@ -1,0 +1,47 @@
+<?php
+
+return [
+    'confirmed' => 'Konfirmasi :attribute tidak cocok.',
+    'current_password' => 'Password salah.',
+    'different' => ':attribute harus berbeda dari :other.',
+    'email' => ':attribute harus berupa alamat email yang valid.',
+    'exists' => ':attribute yang dipilih tidak valid.',
+    'image' => ':attribute harus berupa gambar.',
+    'in' => ':attribute yang dipilih tidak valid.',
+    'integer' => ':attribute harus berupa angka.',
+    'max' => [
+        'file' => ':attribute maksimal :max kilobyte.',
+        'string' => ':attribute maksimal :max karakter.',
+        'numeric' => ':attribute maksimal :max.',
+        'array' => ':attribute maksimal :max item.',
+    ],
+    'mimes' => ':attribute harus berformat: :values.',
+    'min' => [
+        'file' => ':attribute minimal :min kilobyte.',
+        'string' => ':attribute minimal :min karakter.',
+        'numeric' => ':attribute minimal :min.',
+        'array' => ':attribute minimal :min item.',
+    ],
+    'regex' => 'Format :attribute tidak valid.',
+    'required' => ':attribute wajib diisi.',
+    'string' => ':attribute harus berupa teks.',
+    'unique' => ':attribute sudah terdaftar.',
+    'uploaded' => ':attribute gagal diunggah.',
+
+    'attributes' => [
+        'email' => 'Email',
+        'password' => 'Password',
+        'current_password' => 'Password lama',
+        'full_name' => 'Nama lengkap',
+        'username' => 'Username',
+        'phone' => 'Nomor HP',
+        'university' => 'Universitas',
+        'title' => 'Judul barang',
+        'category' => 'Kategori',
+        'condition_item' => 'Kondisi',
+        'description' => 'Deskripsi',
+        'photo' => 'Foto barang',
+        'message' => 'Pesan',
+        'offered_item_id' => 'Barang yang ditawarkan',
+    ],
+];
